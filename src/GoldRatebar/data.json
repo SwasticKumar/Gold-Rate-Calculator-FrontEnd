@@ -1,0 +1,26 @@
+[
+  {
+    "Carate": "18K",
+    "Day": "Gold Today Rate",
+    "Rate": 4867.9,
+    "Text": "text-success"
+  },
+  {
+    "Carate": "20K",
+    "Day": "Gold Today Rate",
+    "Rate": 4786.87,
+    "Text": "text-danger"
+  },
+  {
+    "Carate": "22K",
+    "Day": "Gold Today Rate",
+    "Rate": 5089.23,
+    "Text": "text-success"
+  },
+  {
+    "Carate": "22K",
+    "Day": "Gold Today Rate",
+    "Rate": 5269.7,
+    "Text": "text-danger"
+  }
+]
