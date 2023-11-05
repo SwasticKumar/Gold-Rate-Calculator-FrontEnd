@@ -98,7 +98,7 @@ export default function Register() {
           <div className="col-md-7 bg-light">
             <div className="text-center p-5">
             <img src="./image/gold-icon.png" alt="logo" style={{width:"6rem"}}/>
-              <h5 className="text-secondary fw-bolder fs-5 my-3">Sign up to see photos and videos from your friends.</h5>
+              <h5 className="text-secondary fw-bolder fs-5 my-3">Sign up to check today's gold rate.</h5>
               <form onSubmit={formik.handleSubmit}>
                 {error ? <p className="text-danger ">{error}</p> : ""}
                 <input
