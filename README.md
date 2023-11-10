@@ -24,3 +24,34 @@ To run the Gold Rate Calculator FrontEnd locally, follow these steps:
 
    ```bash
    git clone https://github.com/SwasticKumar/Gold-Rate-Calculator-FrontEnd.git
+
+## Installation
+
+1. Navigate to the project directory:
+   
+   ```bash
+   cd Gold-Rate-Calculator-FrontEnd
+
+2. Install dependencies:
+
+  ```bash
+  npm install
+
+## Usage
+1. Start the development server:
+
+   ```bash
+   npm start
+
+2. Open your browser and visit http://localhost:3000.
+
+
+## Contributing
+If you'd like to contribute to the project, please follow the contribution guidelines.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For any inquiries, please contact [Swastic Kumar] at [kswastic@gmail.com].
+
