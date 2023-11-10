@@ -27,23 +27,10 @@ To run the Gold Rate Calculator FrontEnd locally, follow these steps:
 
 ## Installation
 
-1. Navigate to the project directory:
+2. Navigate to the project directory:
    
    ```bash
    cd Gold-Rate-Calculator-FrontEnd
-
-2. Install dependencies:
-
-  ```bash
-  npm install
-
-## Usage
-1. Start the development server:
-
-   ```bash
-   npm start
-
-2. Open your browser and visit http://localhost:3000.
 
 
 ## Contributing
